@@ -109,7 +109,7 @@ For Windows desktops:
   . link:{includedir}/tlog.adoc[*TLog* - Session Logging]
   . link:{includedir}/lvm-vdo.adoc[*LVM and VDO* - Storage Management and Data Optimization]
   . link:{includedir}/stratis.adoc[*Stratis* - Simplified Storage Management]
-  . link:{includedir}/boom-lvm-snapshot.adoc[*BOOM* - Boot Management]
+  . link:{includedir}/boom.adoc[*BOOM* - Boot Management]
   . link:{includedir}/wayland.adoc[*Wayland* - Desktop GUI ]
 
 
